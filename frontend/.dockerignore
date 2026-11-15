@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+dist-ssr/
+.git/
+.gitignore
+Dockerfile
+.dockerignore
+nginx.conf
+README.md
+.env
+.env.*
+*.log
